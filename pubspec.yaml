@@ -1,5 +1,6 @@
 name: dev_prokit
 description: dev_prokit is a package that provides developers with common functions in project development. It is comprehensive, easy to use, safe and reliable.
+homepage: https://github.com/zhoushuangjian001/flutter_dev_prokit
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
